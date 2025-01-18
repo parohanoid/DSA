@@ -25,4 +25,4 @@ def two_sum(nums, target):
 list = [1,3,4,6,8,10,13]
 target = 13
 
-print(two_sum(list, target))
+# print(two_sum(list, target))
