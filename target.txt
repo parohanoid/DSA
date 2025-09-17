@@ -1,0 +1,39 @@
+Arrays / Strings (sliding window + binary search)
+
+Longest Substring Without Repeating Characters (Sliding Window)
+
+Maximum Sum of Subarrays of Size K (Sliding Window)
+
+Search in Rotated Sorted Array (Binary Search)
+
+Intervals (super common)
+
+Merge Intervals
+
+Non-Overlapping Intervals
+
+Stack (stack tricks are hot in interviews)
+
+Valid Parentheses (warm-up)
+
+Daily Temperatures
+
+Linked List (you will get at least one)
+
+Linked List Cycle
+
+Remove Nth Node From End of List
+
+Trees / Graphs (bread and butter)
+
+Maximum Depth of a Binary Tree (DFS)
+
+Number of Islands (DFS/BFS)
+
+Bonus (if time remains)
+
+Word Search (Backtracking, medium but classic)
+
+Best Time to Buy and Sell Stock (Greedy, easy win if asked)
+
+That’s 12 problems total. If you can solve/explain these, you’ll hit most of the “expected” interview buckets: arrays, strings, linked lists, trees, graphs, stacks, and intervals. That’s a well-rounded set.
