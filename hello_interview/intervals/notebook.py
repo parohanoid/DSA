@@ -2,7 +2,7 @@ def nonOverlappingIntervals(intervals):
     if not intervals:
         return 0
 
-    # this sorts automatically by the smallest interval in the beggining because the start point will always be less than the end point for an interval
+    # sorting by the endings always sorts automatically by the smallest interval in the beggining because the start point will always be less than the end point for an interval
     # so the first interval will be the smallest one and will always be non Overlapping with the others
     intervals.sort(key=lambda x: x[1])
     end = intervals[0][1]
@@ -29,24 +29,26 @@ intervals = [[4,6],[11, 17],[7,10],[2,18]]
 # intervals = [(1,5),(3,9),(6,8)]
 # Output:
 
-def mergeSort(arr):
+# def mergeSort(arr):
 
-    mid = len(arr)//2
-    left = arr[:mid]
-    right = arr[mid:]
-    left_sorted = mergeSort(left)
-    right_sorted = mergeSort(right)
+#     mid = len(arr)//2
+#     left = arr[:mid]
+#     right = arr[mid:]
+#     left_sorted = mergeSort(left)
+#     right_sorted = mergeSort(right)
     
-    def merge(left, right):
-        merge
+#     def merge(left, right):
+#         l = 0
+#         r = 0
 
+#         while l < 
         
 
 
 # false
 intervals = [(1,5),(3,9),(6,8)]
-def nonOverlapping(arr):
-
+# def nonOverlapping(arr):
+    
 
 
 print(nonOverlappingIntervals(intervals))
